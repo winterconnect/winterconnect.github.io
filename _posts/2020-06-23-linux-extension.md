@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Ubuntu]리눅스의 계열과 압축"
+categories: [linux]
 ---
 
 

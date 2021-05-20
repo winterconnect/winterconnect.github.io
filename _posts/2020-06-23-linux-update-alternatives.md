@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Ubuntu]동일한 명령어의 버전별 관리"
+categories: [linux]
 ---
 
 
