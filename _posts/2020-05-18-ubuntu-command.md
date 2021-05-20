@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "[Ubuntu]명령어 목록"
+title: "우분투 명령어 목록"
+categories: [Linux]
 ---
 
 
